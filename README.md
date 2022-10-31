@@ -18,7 +18,7 @@
 
 
 - 👋 Hi, I’m Shyam Sunder Sahu an Android Application Developer
-- 👀 I’m interested in Mobile Application Developement (MAD)
+- 👀 I’m interested in Mobile Application Development (MAD)
 - 🌱 I’m currently learning Kotlin And Java for Android Application Development
 - 💞️ I’m looking to collaborate with other developers
 - 📫 How to reach me saxenashyam.srj@gmail.com
@@ -28,6 +28,8 @@ saxenahysm/saxenahysm is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
+
+### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
  &nbsp;
