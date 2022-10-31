@@ -53,4 +53,6 @@ You can click the Preview link to take a look at your changes.
 
 ### :fire: My Stats :
 
-<img src=https://github-readme-streak-stats.herokuapp.com/?user=your-github-username" alt=""/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username" alt=""/>
+<div align="center"> <a><img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+  </a>
