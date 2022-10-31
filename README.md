@@ -16,11 +16,11 @@
   </a>
 </div>
 ### 👨‍💻: About Me :
-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi, I’m @saxenahysm
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m Shyam Sunder Sahu an Android Application Developer
+- 👀 I’m interested in Mobile Application Developement (MAD)
+- 🌱 I’m currently learning Kotlin And Java for Android Application Development
+- 💞️ I’m looking to collaborate with other developers
+- 📫 How to reach me saxenashyam.srj@gmail.com
 
 <!---
 saxenahysm/saxenahysm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
