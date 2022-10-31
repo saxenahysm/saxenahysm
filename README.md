@@ -16,7 +16,9 @@
   </a>
 </div>
 ### 👨‍💻: About Me :
-👋 Hi, I’m Shyam Sunder Sahu an Android Application Developer
+
+
+- 👋 Hi, I’m Shyam Sunder Sahu an Android Application Developer
 - 👀 I’m interested in Mobile Application Developement (MAD)
 - 🌱 I’m currently learning Kotlin And Java for Android Application Development
 - 💞️ I’m looking to collaborate with other developers
