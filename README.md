@@ -15,8 +15,7 @@
  <div align="center"> <a><img src="https://komarev.com/ghpvc/?username=saxenahysm&style=flat-square&color=blue" alt=""/>
   </a>
 </div>
-<div></div>
-<div></div>
+<br><br><br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saxenahysm" alt="saxenahysm" /></a> </p>
 
 
