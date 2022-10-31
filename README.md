@@ -54,3 +54,4 @@ You can click the Preview link to take a look at your changes.
 ### :fire: My Stats :
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=saxenahysm" alt=""/>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=saxenahysm&border_radius=4)](https://git.io/streak-stats)
