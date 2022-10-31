@@ -54,4 +54,8 @@ You can click the Preview link to take a look at your changes.
 ### :fire: My Stats :
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=saxenahysm" alt=""/>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=saxenahysm&border_radius=4)](https://git.io/streak-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saxenahysm&show_icons=true&locale=en&layout=compact" alt="saxenahysm" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saxenahysm&show_icons=true&locale=en" alt="saxenahysm" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saxenahysm&" alt="saxenahysm" /></p>
