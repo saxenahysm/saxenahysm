@@ -18,9 +18,9 @@
 ### :man_technologist: About Me :
 
 - 👋 Hi, I’m Shyam Sunder Sahu an Android Application Developer
-- 👀 I’m interested in Mobile Application Development (MAD)
+- 👀 I’m interested in kotlin and Flutter for cross plateform mobile application development
 - 🌱 I’m currently learning Kotlin And Java for Android Application Development
-- 💞️ I’m looking to collaborate with other developers
+- 💞️ I’m looking to collaborate with other developers where i can gain the knowlaged to work with team efficiently.
 - 📫 How to reach me saxenashyam.srj@gmail.com
 
 <!---
