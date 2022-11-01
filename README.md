@@ -5,7 +5,7 @@
 <p align="center">
 
 <a href="https://www.linkedin.com/in/shyam-sunder-6058a816a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shyam-sunder-6058a816a/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/18542740/shyam-sunder?tab=profile" target="blank"><img align="center" src="" alt="StackOverFlow" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/18542740/shyam-sunder?tab=profile" target="blank"><img align="center" src="https://miro.medium.com/max/1200/0*UEtwA2ask7vQYW06.png" alt="StackOverFlow" height="30" width="40" /></a>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saxenahysm&label=Profile%20views&color=0e75b6&style=flat" alt="domeshsinha" /> </p>
 
