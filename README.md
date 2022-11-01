@@ -20,7 +20,7 @@
 - 👋 Hi, I’m Shyam Sunder Sahu an Android Application Developer
 - 👀 I’m interested in kotlin and Flutter for cross plateform mobile application development
 - 🌱 I’m currently learning Kotlin And Java for Android Application Development
-- 💞️ I’m looking to collaborate with other developers where i can gain the knowlaged to work with team efficiently.
+- 💞️ I’m looking to collaborate with other developer for contribution.
 - 📫 How to reach me saxenashyam.srj@gmail.com
 
 <!---
