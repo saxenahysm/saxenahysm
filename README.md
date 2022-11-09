@@ -52,3 +52,6 @@ You can click the Preview link to take a look at your changes.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saxenahysm&show_icons=true&locale=en" alt="saxenahysm" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saxenahysm&" alt="saxenahysm" /></p>
+<a href="https://github.com/harshareddy794">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=saxenahysm&show_icons=true&theme=dark&line_height=27" alt="Shyam's github stats"/>
+</a>
