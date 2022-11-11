@@ -4,9 +4,10 @@
 
 ### :man_technologist: About Me :
 
-- 👋 Hi, I’m Shyam Sunder a Mobile Application Developer
-- 👀 I’m interested in kotlin and Flutter for cross plateform mobile application development
-- 🌱 I’m currently learning Kotlin And Java for Android Application Development
+- 👋 Hi, I’m Shyam Sunder a Mobile Application Developer.
+- More than 3years of experience in android application development using  java.
+- I’m interested in kotlin and Flutter for cross plateform mobile application development.
+- I’m currently learning Kotlin And Java for Android Application Development.
 <!---- 💞️ I’m looking to collaborate with other developer for contribution.--->
 - 📫 How to reach me saxenashyam.srj@gmail.com
 
