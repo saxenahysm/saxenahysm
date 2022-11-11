@@ -70,3 +70,14 @@ You can click the Preview link to take a look at your changes.
 
 <br/>
 <br/>
+ <!--------------------------------------------------------SNACK CALENDAR------------------------------------------------------------>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/mitresh-prajapati/"> 
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" /></a>
+</div>
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+<p align="center">
+        <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+</p>
+<br/>
