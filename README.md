@@ -76,3 +76,11 @@ You can click the Preview link to take a look at your changes.
   <a href="[https://www.linkedin.com/in/mitresh-prajapati/](https://www.linkedin.com/in/shyam-sunder-6058a816a/)"> 
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" /></a>
 </div>
+ 
+ <!--------------------------------------------------------Profile Views------------------------------------------------------------>
+ 
+## ❤ Views and Followers
+<a href="https://github.com/saxenahysm/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=saxenahysm">
+</a>
+<a href="https://github.com/saxenahysm?tab=followers"><img src="https://img.shields.io/github/followers/saxenahysm?label=Followers&style=social" alt="GitHub Badge"></a
