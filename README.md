@@ -1,13 +1,13 @@
 <div id="header" align="center">
- <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+ <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
 </div>
 
 ### :man_technologist: About Me :
 
-- 👋 Hi, I’m Shyam Sunder Sahu an Android Application Developer
+- 👋 Hi, I’m Shyam Sunder a Mobile Application Developer
 - 👀 I’m interested in kotlin and Flutter for cross plateform mobile application development
 - 🌱 I’m currently learning Kotlin And Java for Android Application Development
-- 💞️ I’m looking to collaborate with other developer for contribution.
+<!---- 💞️ I’m looking to collaborate with other developer for contribution.--->
 - 📫 How to reach me saxenashyam.srj@gmail.com
 
 <!---
@@ -36,18 +36,18 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
 
 <a href="https://www.linkedin.com/in/shyam-sunder-6058a816a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shyam-sunder-6058a816a/" height="30" width="40" /></a>
+ 
 <a href="https://stackoverflow.com/users/18542740/shyam-sunder=profile" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png" alt="StackOverFlow" height="30" width="40" /></a>
 </p>
+<br>
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------------------->
 ### :fire: My Github Stats :
-
-   <br/>   
-    <p align="center">      
+<br>   
+<p align="center">      
   <a href="https://github.com/saxenahysm/github-readme-stats"><img alt="Shyams's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saxenahysm&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-      </p>
-  <br/>
+</p><br>
 <!----------------------------------------------------------------------------------------------------------------------------------------->
   <div>
   <img  aling="left" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="saxenahysm's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=saxenahysm&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"  width="48%"/>
@@ -56,7 +56,7 @@ You can click the Preview link to take a look at your changes.
  
 <div>
  <!----------------------------------------------------------------------------------------------------------------------------------------->
- <br/>
+<br/>
 <br/>
  
  <!--------------------------------------------------------GRAPH------------------------------------------------------------>
