@@ -39,7 +39,6 @@ You can click the Preview link to take a look at your changes.
 <a href="https://stackoverflow.com/users/18542740/shyam-sunder=profile" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png" alt="StackOverFlow" height="30" width="40" /></a>
 </p>
 <br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saxenahysm" alt="saxenahysm" /></a> </p>
 
 <!----------------------------------------------------------------------------------------------------------------------------------------->
 ### :fire: My Github Stats :
