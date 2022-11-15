@@ -2,7 +2,7 @@
  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
 </div>
 
-### :man_technologist: About Me
+### About Me
 
 - 👋 Hi, I’m Shyam Sunder a Mobile Application Developer
 - 3+ years of experience in android application development using  java
@@ -31,7 +31,6 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 <br>
-
 ### Connect with Me
 <div>
  &nbsp;<a href="https://www.linkedin.com/in/shyam-sunder-6058a816a/" target="blank">
@@ -43,7 +42,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 <br>
 <!----------------------------------------------------------------------------------------------------------------------------------------->
-### :fire: My Github Stats :
+### My Github Stats
 <br>   
 <p align="center">      
   <a href="https://github.com/saxenahysm/github-readme-stats"><img alt="Shyams's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saxenahysm&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -70,7 +69,7 @@ You can click the Preview link to take a look at your changes.
  
  <!--------------------------------------------------------Profile Views------------------------------------------------------------>
  
-## ❤ Views and Followers
+### Views and Followers
 <a href="https://github.com/saxenahysm/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=saxenahysm">
 </a>
