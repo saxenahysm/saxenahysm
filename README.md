@@ -58,16 +58,12 @@ You can click the Preview link to take a look at your changes.
 <div>
  <!----------------------------------------------------------------------------------------------------------------------------------------->
  <!--------------------------------------------------------GRAPH------------------------------------------------------------>
-
 <a href="https://github.com/saxenahysm/github-readme-activity-graph"><img alt="saxenahysm's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=saxenahysm&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-<br/>
  <!--------------------------------------------------------SNACK CALENDAR------------------------------------------------------------>
-
 <div align="center">
   <a href="[https://www.linkedin.com/in/mitresh-prajapati/](https://www.linkedin.com/in/shyam-sunder-6058a816a/)"> 
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" /></a>
 </div>
- 
  <!--------------------------------------------------------Profile Views------------------------------------------------------------>
  
 ### Views and Followers
