@@ -46,7 +46,7 @@ You can click the Preview link to take a look at your changes.
 
 ### My Github Stats
 <br>   
-<p align="center">      
+<p align="left">      
   <a href="https://github.com/saxenahysm/github-readme-stats"><img alt="Shyams's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saxenahysm&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p><br>
 <!----------------------------------------------------------------------------------------------------------------------------------------->
