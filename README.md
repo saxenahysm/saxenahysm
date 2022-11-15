@@ -48,7 +48,7 @@ You can click the Preview link to take a look at your changes.
 <br>   
 <p align="left">      
   <a href="https://github.com/saxenahysm/github-readme-stats"><img alt="Shyams's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saxenahysm&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-</p><br>
+</p>
 <!----------------------------------------------------------------------------------------------------------------------------------------->
   <div>
   <img  aling="left" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="saxenahysm's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=saxenahysm&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"  width="48%"/>
@@ -57,7 +57,6 @@ You can click the Preview link to take a look at your changes.
  
 <div>
  <!----------------------------------------------------------------------------------------------------------------------------------------->
-<br/>
  <!--------------------------------------------------------GRAPH------------------------------------------------------------>
 
 <a href="https://github.com/saxenahysm/github-readme-activity-graph"><img alt="saxenahysm's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=saxenahysm&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
