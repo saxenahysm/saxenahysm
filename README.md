@@ -2,7 +2,7 @@
  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
 </div>
 
-### :man_technologist: About Me :
+### man_technologist: About Me
 
 - 👋 Hi, I’m Shyam Sunder a Mobile Application Developer.
 - 3+ years of experience in android application development using  java.
@@ -16,8 +16,7 @@ saxenahysm/saxenahysm is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-
-### : Languages and Tools :
+### Languages and Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
  &nbsp;
@@ -33,7 +32,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 <br>
-Connect with Me :
+### Connect with Me
 <div>
  &nbsp;<a href="https://www.linkedin.com/in/shyam-sunder-6058a816a/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"         alt="https://www.linkedin.com/in/shyam-sunder-6058a816a/" height="28" width="28" />
