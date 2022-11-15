@@ -62,7 +62,7 @@ You can click the Preview link to take a look at your changes.
  <!--------------------------------------------------------SNACK CALENDAR------------------------------------------------------------>
 <div align="center">
   <a href="[https://www.linkedin.com/in/mitresh-prajapati/](https://www.linkedin.com/in/shyam-sunder-6058a816a/)"> 
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" /></a>
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake"  width="100%"/></a>
 </div>
  <!--------------------------------------------------------Profile Views------------------------------------------------------------>
  
