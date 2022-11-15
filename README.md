@@ -2,7 +2,7 @@
  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
 </div>
 
-### man_technologist: About Me
+### :man_technologist: About Me
 
 - 👋 Hi, I’m Shyam Sunder a Mobile Application Developer.
 - 3+ years of experience in android application development using  java.
