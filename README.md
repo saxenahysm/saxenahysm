@@ -16,6 +16,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### Languages and Tools
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
 &nbsp;
@@ -27,12 +28,13 @@ You can click the Preview link to take a look at your changes.
 &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>
 &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>
+&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 &nbsp;
- <img align="left" alt="Git" title="Git" width="45" height="45" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>&nbsp;
-<img align="left" alt="GitHub" title="GitHub" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />&nbsp;
-<img align="left" alt="GitLab" title="GitLab" width="50" height="50" src="https://github.com/AkshayAshokCode/AkshayAshokCode/blob/main/icons/gitlab-icon-rgb.png" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>
+&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="GitLab" **alt="GitLab" width="40" height="40"/>
 </div>
 <br>
 
