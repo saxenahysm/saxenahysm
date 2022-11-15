@@ -32,12 +32,13 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+<br>
 ### 🇮🇳: Connect with me :
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/shyam-sunder-6058a816a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shyam-sunder-6058a816a/" height="34" width="34" /></a>
-<a href="https://stackoverflow.com/users/18542740/shyam-sunder=profile" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png" alt="StackOverFlow" height="34" width="34" /></a>
+<a href="https://www.linkedin.com/in/shyam-sunder-6058a816a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shyam-sunder-6058a816a/" height="28" width="28" /></a>
+<a href="https://stackoverflow.com/users/18542740/shyam-sunder=profile" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png" alt="StackOverFlow" height="28" width="28" /></a>
 </p>
 <br>
 
