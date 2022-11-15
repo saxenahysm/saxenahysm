@@ -51,9 +51,9 @@ You can click the Preview link to take a look at your changes.
 </p><br>
 <!----------------------------------------------------------------------------------------------------------------------------------------->
   <div>
-  <img  aling="left" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="saxenahysm's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=saxenahysm&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"  width="35%"/>
+  <img  aling="left" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="saxenahysm's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=saxenahysm&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"  width="30%"/>
  
- <img align="center" alt="saxenahysm's Github Stats" src="https://github-readme-stats.vercel.app/api?username=saxenahysm&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"  width="35%"/> 
+ <img align="center" alt="saxenahysm's Github Stats" src="https://github-readme-stats.vercel.app/api?username=saxenahysm&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"  width="30%"/> 
  
  <img align="right" alt="Shyams's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saxenahysm&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"  width="30%"/>
  
