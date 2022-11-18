@@ -8,7 +8,8 @@
 - 3+ years of experience in android application development with java
 - I’m interested in kotlin and Flutter for cross plateform mobile application development
 - I’m currently learning Kotlin And Java for Android Application Development
-- 📫 How to reach me saxenashyam.srj@gmail.com
+- Looking forward to connect and contribute with other developers
+- ping me in this mail for any help or queries saxenashyam.srj@gmail.com
 
 <!---
 saxenahysm/saxenahysm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
