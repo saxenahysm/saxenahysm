@@ -4,12 +4,12 @@
 
 ### About Me
 
-- 👋 Hi, I’m Shyam Sunder a Mobile Application Developer
-- 3+ years of experience in android application development with java
-- I’m interested in kotlin and Flutter for cross plateform mobile application development
-- I’m currently learning Kotlin And Java for Android Application Development
-- Looking forward to connect and contribute with other developers
-- ping me in this mail for any help or queries saxenashyam.srj@gmail.com
+- 👋 Hi, I’m Shyam Sunder a Mobile Application Developer.
+- 3+ years of experience in android application development with java.
+- I’m interested in **Kotlin** for advance android apps and in **Flutter** for cross plateform mobile application development.
+- I’m currently learning Kotlin And Java for Android Application Development.
+- Looking forward to connect and contribute with other developers.
+- ping me in this mail for any help or queries saxenashyam.srj@gmail.com.
 
 <!---
 saxenahysm/saxenahysm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
