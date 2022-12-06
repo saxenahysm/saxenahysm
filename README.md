@@ -3,7 +3,7 @@
 ### How am I ?
 
 - Hi, My Name is Shyam Sunder Sahu and I'm a Mobile Application Developer.
-- With 3+ years of experience in android application development I've worked on more then 20+ applications.
+- With 3+ years of experience in android application development I've worked on 20+ applications.
 - I’m interested in **Kotlin** for advance android apps and in **Flutter** for cross plateform mobile application development.
 - I’m currently learning Kotlin And Java for Android Application Development.
 - Looking forward to connect and contribute with other developers.
