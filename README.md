@@ -8,10 +8,9 @@
 - I’m currently learning Kotlin And Java for Android Application Development.
 - Looking forward to connect and contribute with other developers.
 - ping me in this mail for any help or queries saxenashyam.srj@gmail.com.
-- View my [porfolie][0]
+- View [my porfolie][0]
 
 
-[0]: [https://sites.google.com/view/shyam-/home]
 
 <!---
 saxenahysm/saxenahysm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -81,3 +80,9 @@ You can click the Preview link to take a look at your changes.
     <img src="https://komarev.com/ghpvc/?username=saxenahysm">
 </a>
 <a href="https://github.com/saxenahysm?tab=followers"><img src="https://img.shields.io/github/followers/saxenahysm?label=Followers&style=social" alt="GitHub Badge"></a
+  
+  
+  
+  
+[0]: https://sites.google.com/view/shyam-/home
+
