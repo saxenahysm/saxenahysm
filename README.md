@@ -8,7 +8,10 @@
 - I’m currently learning Kotlin And Java for Android Application Development.
 - Looking forward to connect and contribute with other developers.
 - ping me in this mail for any help or queries saxenashyam.srj@gmail.com.
-- View my [porfolie][https://sites.google.com/view/shyam-/home]
+- View my [porfolie][0]
+
+
+[0]: [https://sites.google.com/view/shyam-/home]
 
 <!---
 saxenahysm/saxenahysm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
