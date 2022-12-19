@@ -86,5 +86,6 @@ You can click the Preview link to take a look at your changes.
   
   
 [0]: https://sites.google.com/view/shyam-/home
-[1]: https://docs.google.com/document/d/1GDnLrnyOLNhfh8Smz5D0olQFpt4gwKWu/edit#heading=h.30j0zll
+[1]: https://drive.google.com/file/d/1bC6qWonUrZbdZHOy5vHKXFaV2D3Tinxk/view?usp=drivesdk
+  
 
