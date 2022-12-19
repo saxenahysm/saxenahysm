@@ -9,7 +9,7 @@
 - Looking forward to connect and contribute with other developers.
 - ping me in this mail for any help or queries saxenashyam.srj@gmail.com.
 - View [my porfolie][0]
-- Know more about my experiece from my [cv][1]
+- [Know more about my experiece][1]
 
 
 
