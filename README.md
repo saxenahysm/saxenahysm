@@ -8,8 +8,8 @@
 - I’m currently learning Kotlin And Java for Android Application Development.
 - Looking forward to connect and contribute with other developers.
 - ping me in this mail for any help or queries saxenashyam.srj@gmail.com.
-- View [my porfolie][0]
-- [Know more about my experiece][1]
+<!---- View [my porfolie][0]--->
+- [Know more about my experiece rom my CV][1]
 
 
 
