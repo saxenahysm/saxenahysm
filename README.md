@@ -9,7 +9,7 @@
 - Looking forward to connect and contribute with other developers.
 - how to reach me saxenashyam.srj@gmail.com.
 <!---- View [my porfolie][0]--->
-- [Know more about my experiece rom my CV][1]
+- Know more about my experiece from my [Resume][1]
 
 
 
