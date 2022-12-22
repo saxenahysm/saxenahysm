@@ -9,7 +9,7 @@
 - Looking forward to connect and contribute with other developers.
 - how to reach me saxenashyam.srj@gmail.com.
 <!---- View [my porfolie][0]--->
-- Know more about my experiece from my [Resume][1]
+- Know more about my experiece from my [Resume](https://drive.google.com/file/d/1J9Pk-UEjjVgVyKHRK8CVd7di_Zwj72sU/view?usp=sharing)
 
 
 
@@ -86,6 +86,5 @@ You can click the Preview link to take a look at your changes.
   
   
 [0]: https://sites.google.com/view/shyam-/home
-[1]: https://drive.google.com/file/d/1bC6qWonUrZbdZHOy5vHKXFaV2D3Tinxk/view?usp=drivesdk
   
 
