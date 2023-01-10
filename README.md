@@ -1,6 +1,6 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
-### How am I ?
+### About Me ?
 
 - Hi, My name is Shyam Sunder Sahu and I'm a Mobile Application Developer.
 - With 3+ years of experience in android application development I've worked on 20+ applications.
