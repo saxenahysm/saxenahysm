@@ -2,7 +2,7 @@
 
 ### About Me
 
-- Hi, My name is Shyam Sunder Sahu and I'm a Mobile Application Developer Specialized in java.
+- Hi, My name is Shyam Sunder Sahu and I'm a Mobile Application Developer Specialized in `Java` and `Kotlin`.
 - With 3+ years of experience in Android application development I've worked on 25+ Live Projects.
 - Currently I'm learning Kotlin for advance android development.
 - I’m interested in **Kotlin** for advance android apps and in **Flutter** for cross plateform mobile application development.
